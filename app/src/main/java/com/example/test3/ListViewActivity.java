@@ -71,7 +71,7 @@ public class ListViewActivity extends AppCompatActivity {
         }
 
         String[] from = {"icon", "title", "description"};
-        int[] to = {R.id.item_icon, R.id.item_title, R.id.item_subtitle};
+        int[] to = {R.id.item_icon, R.id.item_title};
 
         SimpleAdapter adapter = new SimpleAdapter(this, dataList, R.layout.list_item, from, to);
         ListView listView = findViewById(R.id.listView);
