@@ -6,5 +6,6 @@ Android界面组件实验
 <img width="287" height="426" alt="image" src="https://github.com/user-attachments/assets/0f174552-887f-44c9-8994-3c8241a73f78" />
 
 listview多选实现
-<img width="286" height="402" alt="image" src="https://github.com/user-attachments/assets/8fb409aa-0f70-4330-9755-5a3d64838947" />
+<p><img width="286" height="402" alt="image" src="https://github.com/user-attachments/assets/8fb409aa-0f70-4330-9755-5a3d64838947" /></p>
+
 
